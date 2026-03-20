@@ -2,7 +2,29 @@
 
 (put some cool ascii art here)
 
-(text tree of relevant shi here)
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Education](#education)
+- [Skills](#skills)
+- [Summary](#summary)
+- [Additional-Info](additional-info)
+
+## Introduction
+
+(update this with self bio)
+
+## Education
+
+(update)
+
+## Skills
+
+(update)
+
+## Summary
+
+(update)
 
 ## Additional-Info
 
